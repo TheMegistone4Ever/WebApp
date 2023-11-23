@@ -5,5 +5,4 @@ from blog.models import ArticleModel
 class ArticleForm(ModelForm):
     class Meta:
         model = ArticleModel
-        fields = ['title', 'category', 'author', 'content']
-        # OR: exclude = ['creation_date']
+        fields = ['title', 'category', 'author', 'content']  # OR: exclude = ['creation_date']
