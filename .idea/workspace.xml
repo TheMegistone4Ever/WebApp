@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d58a2943-188b-48eb-a9bd-25bff8c3cb99" name="Changes" comment="Lesson 4.">
-      <change beforePath="$PROJECT_DIR$/.idea/WebApp_Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebApp_Django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/43133d57-58d0-4126-a0bb-20704b913721.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/43133d57-58d0-4126-a0bb-20704b913721.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d58a2943-188b-48eb-a9bd-25bff8c3cb99" name="Changes" comment="Do refactor." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +183,7 @@
       <workItem from="1702991572130" duration="612000" />
       <workItem from="1702993576442" duration="232000" />
       <workItem from="1702994682862" duration="7000" />
-      <workItem from="1718373331451" duration="72000" />
+      <workItem from="1718373331451" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 1. Launched Home page successfully...">
       <option name="closed" value="true" />
@@ -223,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702993633763</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Do refactor.">
+      <option name="closed" value="true" />
+      <created>1718373418704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718373418704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +235,8 @@
     <MESSAGE value="Lesson 1. Launched Home page successfully..." />
     <MESSAGE value="Lesson 2-3. Added views, templates, dynamic urls. Bug fixed." />
     <MESSAGE value="Lesson 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4." />
+    <MESSAGE value="Do refactor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Do refactor." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
